@@ -1,0 +1,1441 @@
+{
+  "leads": [
+    {
+      "id": "LP-1058",
+      "createdAt": "2026-10-30T11:39:50.101Z",
+      "updatedAt": "2026-10-30T11:40:00.357Z",
+      "companyName": "Apex Global FinTech Ltd",
+      "contactName": "David Vance (VP Trading Systems)",
+      "email": "dvance@apexfintech.com",
+      "phone": "",
+      "website": "",
+      "industry": "Fintech",
+      "employeeCount": "2500+",
+      "estimatedBudget": 140000,
+      "targetTimeline": "Immediate (< 30 days)",
+      "problemStatement": "Replacing legacy FIX message triage engine with neural compliance classifier. Needs 99.999% SLA.",
+      "source": "Website Demo Request",
+      "qualificationStatus": "Approved",
+      "leadScore": 95,
+      "intentGrade": "A+",
+      "icpMatchScore": 95,
+      "budgetTier": "Enterprise (> $100K)",
+      "assignedTeam": "Strategic Enterprise",
+      "assignedAE": "Sarah Chen (Principal AE)",
+      "routingRuleApplied": "Fintech High ARR Rule -> Strategic Enterprise Tier 1",
+      "requiresManagerApproval": true,
+      "approvalDetails": {
+        "status": "Approved",
+        "reason": "High Contract Value: Estimated ARR ($140,000) exceeds the $100K automated routing threshold.",
+        "requestedAt": "2026-10-30T11:39:50.101Z",
+        "reviewedAt": "2026-10-30T11:40:00.357Z",
+        "reviewedBy": "Executive Sales Manager",
+        "managerNotes": "Approved for Strategic Accounts Priority Track by Global Sales Director."
+      },
+      "aiEvaluation": {
+        "summary": "Apex Global FinTech Ltd (Fintech) is looking to solve Replacing legacy FIX message triage engine with neural compliance classifier. Needs 99.999% SLA.... Headcount is 2500+ with planned budget of $140,000.",
+        "buyingIntentAnalysis": "Active buyer with near-term deployment mandate.",
+        "keyStrengths": [
+          "High-urgency replacement / enterprise scale signal in problem statement",
+          "Strong annual budget commitment ($140,000)",
+          "Enterprise headcount profile (2500+ employees)"
+        ],
+        "riskFlags": [],
+        "fitFactors": {
+          "budgetFit": 96,
+          "authorityFit": 100,
+          "needFit": 90,
+          "timelineFit": 95
+        },
+        "suggestedNextStep": "Assign strategic AE for executive solution demo and architecture review"
+      },
+      "workflowStage": "Completed"
+    },
+    {
+      "id": "LP-1057",
+      "createdAt": "2026-10-30T11:38:49.447Z",
+      "updatedAt": "2026-10-30T11:39:20.888Z",
+      "companyName": "Vortex Cloud Data Corp",
+      "contactName": "Michael Scott (VP Cloud)",
+      "email": "mscott@vortexcloud.net",
+      "phone": "",
+      "website": "",
+      "industry": "Enterprise SaaS",
+      "employeeCount": "501-2500",
+      "estimatedBudget": 95000,
+      "targetTimeline": "Immediate (< 30 days)",
+      "problemStatement": "Migrating Cassandra storage cluster to managed cloud real-time datastore.",
+      "source": "Website Demo Request",
+      "qualificationStatus": "Approved",
+      "leadScore": 83,
+      "intentGrade": "A",
+      "icpMatchScore": 84,
+      "budgetTier": "Mid-Market ($30K-$100K)",
+      "assignedTeam": "Strategic Enterprise",
+      "assignedAE": "Sarah Chen (Principal AE)",
+      "routingRuleApplied": "Mid-Market Employee Threshold (101-2500)",
+      "requiresManagerApproval": false,
+      "approvalDetails": {
+        "status": "Overridden",
+        "reason": "Manager Review",
+        "requestedAt": "2026-10-30T11:38:49.447Z",
+        "reviewedAt": "2026-10-30T11:39:20.888Z",
+        "reviewedBy": "Executive Sales Manager",
+        "managerNotes": "Correction: Upgraded territory to Strategic Enterprise based on enterprise subsidiary relationship."
+      },
+      "aiEvaluation": {
+        "summary": "Vortex Cloud Data Corp (Enterprise SaaS) is looking to solve Migrating Cassandra storage cluster to managed cloud real-time datastore.... Headcount is 501-2500 with planned budget of $95,000.",
+        "buyingIntentAnalysis": "Active buyer with near-term deployment mandate.",
+        "keyStrengths": [
+          "Strong annual budget commitment ($95,000)",
+          "Enterprise headcount profile (501-2500 employees)"
+        ],
+        "riskFlags": [],
+        "fitFactors": {
+          "budgetFit": 85,
+          "authorityFit": 100,
+          "needFit": 65,
+          "timelineFit": 95
+        },
+        "suggestedNextStep": "Assign strategic AE for executive solution demo and architecture review"
+      },
+      "workflowStage": "Completed"
+    },
+    {
+      "id": "LP-1056",
+      "createdAt": "2026-10-30T11:19:27.093Z",
+      "updatedAt": "2026-10-30T11:19:27.093Z",
+      "companyName": "Quantum BioSystems Inc",
+      "contactName": "Dr. Evelyn Wu",
+      "email": "evelyn.wu@quantumbio.com",
+      "phone": "",
+      "website": "",
+      "industry": "Healthcare",
+      "employeeCount": "501-2500",
+      "estimatedBudget": 85000,
+      "targetTimeline": "1-3 months",
+      "problemStatement": "Seeking to replace manual clinical lab routing with AI event triage and HL7 compliance.",
+      "source": "Website Demo Request",
+      "qualificationStatus": "Qualified",
+      "leadScore": 86,
+      "intentGrade": "A",
+      "icpMatchScore": 87,
+      "budgetTier": "Mid-Market ($30K-$100K)",
+      "assignedTeam": "US Mid-Market",
+      "assignedAE": "Marcus Vance (Senior AE)",
+      "routingRuleApplied": "Mid-Market Employee Threshold (101-2500)",
+      "requiresManagerApproval": false,
+      "aiEvaluation": {
+        "summary": "Quantum BioSystems Inc (Healthcare) is looking to solve Seeking to replace manual clinical lab routing with AI event triage and HL7 compliance.... Headcount is 501-2500 with planned budget of $85,000.",
+        "buyingIntentAnalysis": "Active buyer with near-term deployment mandate.",
+        "keyStrengths": [
+          "High-urgency replacement / enterprise scale signal in problem statement",
+          "Strong annual budget commitment ($85,000)",
+          "Enterprise headcount profile (501-2500 employees)"
+        ],
+        "riskFlags": [],
+        "fitFactors": {
+          "budgetFit": 85,
+          "authorityFit": 85,
+          "needFit": 90,
+          "timelineFit": 80
+        },
+        "suggestedNextStep": "Assign strategic AE for executive solution demo and architecture review"
+      },
+      "workflowStage": "Completed"
+    },
+    {
+      "id": "LP-1048",
+      "createdAt": "2026-10-30T09:12:43.969Z",
+      "updatedAt": "2026-10-30T11:19:55.478Z",
+      "companyName": "Apex Cloud Logistics",
+      "contactName": "David Sterling (VP of Infrastructure)",
+      "email": "d.sterling@apexcloud.io",
+      "phone": "+1 (415) 882-9011",
+      "website": "https://apexcloud.io",
+      "industry": "Logistics",
+      "employeeCount": "501-2500",
+      "estimatedBudget": 180000,
+      "targetTimeline": "Immediate (< 30 days)",
+      "problemStatement": "Migrating global shipment routing telemetry from legacy on-prem Kafka cluster to AI-orchestrated event stream. Need SOC2 Type II compliance and high-availability enterprise SLA.",
+      "source": "Website Demo Request",
+      "qualificationStatus": "Approved",
+      "leadScore": 94,
+      "intentGrade": "A+",
+      "icpMatchScore": 96,
+      "budgetTier": "Enterprise (> $100K)",
+      "assignedTeam": "Automated Nurture",
+      "assignedAE": "Marcus Vance (Senior AE)",
+      "routingRuleApplied": "Enterprise Budget Rule (> $100K) -> Strategic Accounts",
+      "requiresManagerApproval": true,
+      "approvalDetails": {
+        "status": "Approved",
+        "reason": "High Contract Value: Estimated ARR ($180,000) exceeds the $100K automated routing threshold.",
+        "requestedAt": "2026-10-30T09:12:43.969Z",
+        "reviewedAt": "2026-10-30T11:19:55.478Z",
+        "reviewedBy": "Executive Sales Manager",
+        "managerNotes": "Re-approved by Executive Committee"
+      },
+      "aiEvaluation": {
+        "summary": "Apex Cloud Logistics is a high-growth logistics provider replacing legacy telemetry infra. High budget, immediate procurement timeline, and VP-level authority.",
+        "buyingIntentAnalysis": "Active buyer with near-term deployment mandate and budget allocated.",
+        "keyStrengths": [
+          "Enterprise deal size ($180,000 ARR)",
+          "Immediate timeline (< 30 days deployment target)",
+          "High authority buyer (VP Infrastructure)",
+          "Verified corporate domain and headcount"
+        ],
+        "riskFlags": [
+          "Requires custom SOC2 Type II and SLA terms",
+          "Multi-region routing requirements"
+        ],
+        "fitFactors": {
+          "budgetFit": 98,
+          "authorityFit": 95,
+          "needFit": 92,
+          "timelineFit": 94
+        },
+        "suggestedNextStep": "Manager review & AE assignment for technical discovery call with Solutions Architect"
+      },
+      "workflowStage": "Completed"
+    },
+    {
+      "id": "LP-1047",
+      "createdAt": "2026-10-30T05:42:43.969Z",
+      "updatedAt": "2026-10-30T06:30:43.969Z",
+      "companyName": "Vanguard FinTech Group",
+      "contactName": "Victoria Hastings (Head of Risk Engineering)",
+      "email": "vhastings@vanguardfin.com",
+      "phone": "+1 (212) 555-0193",
+      "website": "https://vanguardfin.com",
+      "industry": "Fintech",
+      "employeeCount": "2500+",
+      "estimatedBudget": 125000,
+      "targetTimeline": "1-3 months",
+      "problemStatement": "Automating real-time fraud signal triage across 12 banking subsidiaries with customized risk models.",
+      "source": "G2 High Intent",
+      "qualificationStatus": "Approved",
+      "leadScore": 91,
+      "intentGrade": "A+",
+      "icpMatchScore": 94,
+      "budgetTier": "Enterprise (> $100K)",
+      "assignedTeam": "Strategic Enterprise",
+      "assignedAE": "Sarah Chen (Principal AE)",
+      "routingRuleApplied": "Fintech High ARR Rule -> Strategic Enterprise Tier 1",
+      "requiresManagerApproval": true,
+      "approvalDetails": {
+        "status": "Approved",
+        "reason": "High Contract Value: $125,000 ARR Tier 1 Fintech mandate",
+        "requestedAt": "2026-10-30T05:42:43.969Z",
+        "reviewedAt": "2026-10-30T06:30:43.969Z",
+        "reviewedBy": "Rachel Adams (Global Sales Director)",
+        "managerNotes": "Strategic account in banking vertical. Fast-tracked for executive sponsorship."
+      },
+      "aiEvaluation": {
+        "summary": "Global financial institution evaluating AI fraud detection. Top tier enterprise profile with strong ARR expansion potential.",
+        "buyingIntentAnalysis": "High commercial intent; active vendor bake-off with Q4 procurement target.",
+        "keyStrengths": [
+          "Verified Tier 1 Enterprise (2500+ employees)",
+          "Clear technical use case and allocated budget",
+          "G2 intent score ranked 98th percentile"
+        ],
+        "riskFlags": [],
+        "fitFactors": {
+          "budgetFit": 95,
+          "authorityFit": 90,
+          "needFit": 94,
+          "timelineFit": 85
+        },
+        "suggestedNextStep": "Executive briefing and security questionnaire review"
+      },
+      "workflowStage": "Completed"
+    },
+    {
+      "id": "LP-1046",
+      "createdAt": "2026-10-29T22:42:43.969Z",
+      "updatedAt": "2026-10-29T22:42:43.969Z",
+      "companyName": "HealthPulse Solutions",
+      "contactName": "Dr. Aaron Meyer (Chief Product Officer)",
+      "email": "aaron.m@healthpulse.org",
+      "phone": "+1 (617) 492-3300",
+      "website": "https://healthpulse.org",
+      "industry": "Healthcare",
+      "employeeCount": "101-500",
+      "estimatedBudget": 48000,
+      "targetTimeline": "1-3 months",
+      "problemStatement": "Seeking HIPAA-compliant patient intake orchestration to streamline clinic scheduling across 30 regional centers.",
+      "source": "Partner Referral",
+      "qualificationStatus": "Qualified",
+      "leadScore": 82,
+      "intentGrade": "A",
+      "icpMatchScore": 85,
+      "budgetTier": "Mid-Market ($30K-$100K)",
+      "assignedTeam": "US Mid-Market",
+      "assignedAE": "Marcus Vance (Senior AE)",
+      "routingRuleApplied": "Partner Channel Rule -> Senior Account Executive",
+      "requiresManagerApproval": false,
+      "aiEvaluation": {
+        "summary": "Mid-market healthcare network seeking operational efficiency for clinical intake. Clear budget and strong timeline alignment.",
+        "buyingIntentAnalysis": "Warm inbound via certified partner channel. Decision maker engaged.",
+        "keyStrengths": [
+          "Executive buyer involvement (CPO)",
+          "Clear budget fit within mid-market tier",
+          "Pre-qualified partner referral"
+        ],
+        "riskFlags": [
+          "BAA compliance requirement must be verified"
+        ],
+        "fitFactors": {
+          "budgetFit": 82,
+          "authorityFit": 88,
+          "needFit": 84,
+          "timelineFit": 78
+        },
+        "suggestedNextStep": "Send healthcare compliance brief and schedule AE demo"
+      },
+      "workflowStage": "Completed"
+    },
+    {
+      "id": "LP-1045",
+      "createdAt": "2026-10-29T10:42:43.969Z",
+      "updatedAt": "2026-10-29T10:42:43.969Z",
+      "companyName": "Nordic BioMetrics AB",
+      "contactName": "Frederik Lindqvist",
+      "email": "frederik@nordicbiometrics.se",
+      "phone": "+46 8 505 120 00",
+      "website": "https://nordicbiometrics.se",
+      "industry": "Healthcare",
+      "employeeCount": "21-100",
+      "estimatedBudget": 35000,
+      "targetTimeline": "3-6 months",
+      "problemStatement": "Evaluating automated identity credentialing pipelines for regional lab telemetry.",
+      "source": "Website Demo Request",
+      "qualificationStatus": "Qualified",
+      "leadScore": 71,
+      "intentGrade": "B",
+      "icpMatchScore": 74,
+      "budgetTier": "Mid-Market ($30K-$100K)",
+      "assignedTeam": "EMEA Enterprise",
+      "assignedAE": "Elena Rostova (Enterprise Director)",
+      "routingRuleApplied": "Mid-Market Employee Threshold (101-2500)",
+      "requiresManagerApproval": false,
+      "aiEvaluation": {
+        "summary": "European biometric diagnostics company. Moderate budget with planned expansion into EU healthcare providers.",
+        "buyingIntentAnalysis": "Medium urgency; currently scoping technical viability for next fiscal year.",
+        "keyStrengths": [
+          "Established EU presence",
+          "Target industry alignment"
+        ],
+        "riskFlags": [
+          "Timeline extends into next fiscal quarter",
+          "GDPR data residency requirement"
+        ],
+        "fitFactors": {
+          "budgetFit": 70,
+          "authorityFit": 75,
+          "needFit": 72,
+          "timelineFit": 65
+        },
+        "suggestedNextStep": "Enroll in EMEA nurturing sequence and offer live technical walkthrough"
+      },
+      "workflowStage": "Completed"
+    },
+    {
+      "id": "LP-1044",
+      "createdAt": "2026-10-28T22:42:43.969Z",
+      "updatedAt": "2026-10-28T22:42:43.969Z",
+      "companyName": "Pacific Commerce Corp",
+      "contactName": "Kenji Sato (Operations Lead)",
+      "email": "k.sato@pacificommerce.co.jp",
+      "phone": "+81 3 4567 8901",
+      "website": "https://pacificommerce.co.jp",
+      "industry": "E-commerce",
+      "employeeCount": "101-500",
+      "estimatedBudget": 22000,
+      "targetTimeline": "1-3 months",
+      "problemStatement": "Need to route regional supplier inquiries dynamically across Japan and Southeast Asia distribution nodes.",
+      "source": "Inbound Form",
+      "qualificationStatus": "Qualified",
+      "leadScore": 68,
+      "intentGrade": "B",
+      "icpMatchScore": 70,
+      "budgetTier": "Growth ($10K-$30K)",
+      "assignedTeam": "APAC Growth",
+      "assignedAE": "Liam Patel (Growth AE)",
+      "routingRuleApplied": "Regional Growth Catch-all",
+      "requiresManagerApproval": false,
+      "aiEvaluation": {
+        "summary": "APAC e-commerce operations seeking routing automation. Good commercial fit for Growth tier.",
+        "buyingIntentAnalysis": "Operational team ready to trial with positive budget readiness.",
+        "keyStrengths": [
+          "High volume lead routing demand",
+          "Clear regional scope"
+        ],
+        "riskFlags": [
+          "Budget capped at $22K initial phase"
+        ],
+        "fitFactors": {
+          "budgetFit": 68,
+          "authorityFit": 65,
+          "needFit": 74,
+          "timelineFit": 75
+        },
+        "suggestedNextStep": "Schedule APAC regional onboarding call"
+      },
+      "workflowStage": "Completed"
+    },
+    {
+      "id": "LP-1043",
+      "createdAt": "2026-10-28T10:42:43.969Z",
+      "updatedAt": "2026-10-28T10:42:43.969Z",
+      "companyName": "SoloCraft Studio",
+      "contactName": "Alex River",
+      "email": "alex.river1988@gmail.com",
+      "phone": "+1 (555) 012-3456",
+      "website": "",
+      "industry": "Other",
+      "employeeCount": "1-20",
+      "estimatedBudget": 1500,
+      "targetTimeline": "Exploratory",
+      "problemStatement": "Just curious how the platform works for my personal freelance portfolio and side projects.",
+      "source": "Inbound Form",
+      "qualificationStatus": "Disqualified",
+      "leadScore": 24,
+      "intentGrade": "D",
+      "icpMatchScore": 20,
+      "budgetTier": "Self-Serve (< $10K)",
+      "assignedTeam": "Automated Nurture",
+      "assignedAE": "LeadPilot Auto-Nurture System",
+      "routingRuleApplied": "Low Budget / Sub-40 Score -> Product-Led Nurture Stream",
+      "requiresManagerApproval": false,
+      "aiEvaluation": {
+        "summary": "Solo freelancer with sub-$2k budget and exploratory timeline. Below enterprise AE routing criteria.",
+        "buyingIntentAnalysis": "No enterprise purchasing intent or commercial readiness.",
+        "keyStrengths": [
+          "Interested in platform capabilities"
+        ],
+        "riskFlags": [
+          "Freemail domain",
+          "Budget below $10K threshold",
+          "Solo employee count"
+        ],
+        "fitFactors": {
+          "budgetFit": 15,
+          "authorityFit": 30,
+          "needFit": 25,
+          "timelineFit": 20
+        },
+        "suggestedNextStep": "Route to automated free trial email cadence and self-serve documentation"
+      },
+      "workflowStage": "Disqualified"
+    }
+  ],
+  "logs": [
+    {
+      "id": "LOG-1793360400358",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:40:00.358Z",
+      "step": "Manager Gatekeeper Check",
+      "status": "Success",
+      "durationMs": 18,
+      "message": "Manager decision recorded: APPROVE by Executive Sales Manager. Assigned AE: Sarah Chen (Principal AE). Notes: Approved for Strategic Accounts Priority Track by Global Sales Director.",
+      "metadata": {
+        "action": "approve",
+        "previousStatus": "Pending Approval",
+        "newStatus": "Approved",
+        "assignedAE": "Sarah Chen (Principal AE)"
+      }
+    },
+    {
+      "id": "LOG-1793360390101-0",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Enquiry Received",
+      "status": "Info",
+      "durationMs": 8,
+      "message": "Ingested payload from Apex Global FinTech Ltd (David Vance (VP Trading Systems) <dvance@apexfintech.com>)",
+      "metadata": {
+        "source": "Website Demo Request",
+        "budget": 140000,
+        "employeeCount": "2500+"
+      }
+    },
+    {
+      "id": "LOG-1793360390101-1",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Firmographic Verification",
+      "status": "Success",
+      "durationMs": 42,
+      "message": "Corporate domain verified for dvance@apexfintech.com. Company size tier: 2500+.",
+      "metadata": {
+        "isCorporateEmail": true,
+        "employeeCount": "2500+",
+        "industry": "Fintech"
+      }
+    },
+    {
+      "id": "LOG-1793360390101-2",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Gemini AI Retry Monitor",
+      "status": "Warning",
+      "durationMs": 2001,
+      "message": "Attempt 1/3 for Gemini API neural scoring failed (Gemini API request timed out after 2000ms). Initiating retry with backoff...",
+      "metadata": {
+        "attempt": 1,
+        "maxRetries": 3,
+        "error": "Gemini API request timed out after 2000ms"
+      }
+    },
+    {
+      "id": "LOG-1793360390101-3",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Gemini AI Retry Monitor",
+      "status": "Warning",
+      "durationMs": 2407,
+      "message": "Attempt 2/3 for Gemini API neural scoring failed ({\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\\nPlease retry in 19h20m10.44551904s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"description\":\"Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\",\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-3.8-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"69610s\"}]}}). Initiating retry with backoff...",
+      "metadata": {
+        "attempt": 2,
+        "maxRetries": 3,
+        "error": "{\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\\nPlease retry in 19h20m10.44551904s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"description\":\"Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\",\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-3.8-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"69610s\"}]}}"
+      }
+    },
+    {
+      "id": "LOG-1793360390101-4",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Gemini AI Retry Monitor",
+      "status": "Warning",
+      "durationMs": 2946,
+      "message": "Attempt 3/3 for Gemini API neural scoring failed ({\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\\nPlease retry in 19h20m9.906404225s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"description\":\"Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\",\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-3.8-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"69609s\"}]}}). Maximum 3 attempts exhausted.",
+      "metadata": {
+        "attempt": 3,
+        "maxRetries": 3,
+        "error": "{\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\\nPlease retry in 19h20m9.906404225s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"description\":\"Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\",\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-3.8-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"69609s\"}]}}"
+      }
+    },
+    {
+      "id": "LOG-1793360390101-5",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Gemini AI Intent Scoring",
+      "status": "Warning",
+      "durationMs": 2946,
+      "message": "Gemini API ceased after 3 attempts ({\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\\nPlease retry in 19h20m9.906404225s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"description\":\"Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\",\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-3.8-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"69609s\"}]}}). Seamlessly engaged LeadPilot deterministic neural heuristic engine.",
+      "metadata": {
+        "attempts": 3,
+        "maxRetries": 3,
+        "fallbackEngaged": true
+      }
+    },
+    {
+      "id": "LOG-1793360390101-6",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Neural Heuristics Intent Scoring",
+      "status": "Success",
+      "durationMs": 0,
+      "message": "Intent and fit scoring calculated via LeadPilot Multi-Factor Neural Heuristics.",
+      "metadata": {
+        "fitFactors": {
+          "budgetFit": 96,
+          "authorityFit": 100,
+          "needFit": 90,
+          "timelineFit": 95
+        }
+      }
+    },
+    {
+      "id": "LOG-1793360390101-7",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Routing Rules Evaluation",
+      "status": "Success",
+      "durationMs": 34,
+      "message": "Routed to Strategic Enterprise via rule: \"Fintech High ARR Rule -> Strategic Enterprise Tier 1\". Lead score: 95 (Grade: A+).",
+      "metadata": {
+        "rule": "Fintech High ARR Rule -> Strategic Enterprise Tier 1",
+        "team": "Strategic Enterprise",
+        "score": 95
+      }
+    },
+    {
+      "id": "LOG-1793360390101-8",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Manager Gatekeeper Check",
+      "status": "Warning",
+      "durationMs": 15,
+      "message": "Lead held in Manager Queue. AE assignment withheld until human sign-off. Reason: High Contract Value: Estimated ARR ($140,000) exceeds the $100K automated routing threshold.",
+      "metadata": {
+        "reason": "High Contract Value: Estimated ARR ($140,000) exceeds the $100K automated routing threshold.",
+        "assignedAE": "Unassigned (Pending Manager Approval)"
+      }
+    },
+    {
+      "id": "LOG-1793360390101-9",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Deterministic Check Tool Validation",
+      "status": "Success",
+      "durationMs": 7,
+      "message": "Independent Deterministic Check Tool verified 5/5 mathematical, tier, and policy invariants.",
+      "metadata": {
+        "toolName": "DeterministicCheckTool",
+        "passed": true,
+        "totalChecks": 5,
+        "checks": [
+          {
+            "ruleId": "INV-01-MATH-SCORE",
+            "description": "Lead score must match deterministic weighted fit factor formula within ±1 point",
+            "passed": true,
+            "details": "Lead score (95) correctly verifies against calculated weighted value (95)."
+          },
+          {
+            "ruleId": "INV-02-BUDGET-TIER",
+            "description": "Contract value must correctly map to standardized budget tier boundaries",
+            "passed": true,
+            "details": "Budget of $140,000 correctly assigned to Enterprise (> $100K)."
+          },
+          {
+            "ruleId": "INV-03-ESCALATION-GATE",
+            "description": "Contracts >= $100,000 ARR must trigger requiresManagerApproval flag",
+            "passed": true,
+            "details": "Escalation gate consistent: requiresManagerApproval=true for ARR $140,000."
+          },
+          {
+            "ruleId": "INV-04-UNASSIGNED-GUARDRAIL",
+            "description": "Pending and rejected/disqualified leads must NOT have active AE assigned",
+            "passed": true,
+            "details": "Assignment guardrail respected: status=\"Pending Approval\", AE=\"Unassigned (Pending Manager Approval)\"."
+          },
+          {
+            "ruleId": "INV-05-EMAIL-SYNTAX",
+            "description": "Prospect email must conform to valid RFC 5322 format",
+            "passed": true,
+            "details": "Email format verified: dvance@apexfintech.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LOG-1793360390101-10",
+      "leadId": "LP-1058",
+      "leadCompany": "Apex Global FinTech Ltd",
+      "timestamp": "2026-10-30T11:39:50.101Z",
+      "step": "Routing Action Tool Execution",
+      "status": "Success",
+      "durationMs": 12,
+      "message": "Action Tool held lead in Manager Escalation Queue. CRM synchronization paused until human sign-off.",
+      "metadata": {
+        "toolName": "RoutingActionTool",
+        "executed": true,
+        "targetTerritory": "Strategic Enterprise",
+        "assignedAE": "Unassigned (Pending Manager Approval)",
+        "crmSyncStatus": "HELD_PENDING_APPROVAL",
+        "slaResponseWindowHours": 24
+      }
+    },
+    {
+      "id": "LOG-1793360360889",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:39:20.889Z",
+      "step": "Manager Gatekeeper Check",
+      "status": "Success",
+      "durationMs": 18,
+      "message": "Manager decision recorded: OVERRIDE by Executive Sales Manager. Assigned AE: Sarah Chen (Principal AE). Notes: Correction: Upgraded territory to Strategic Enterprise based on enterprise subsidiary relationship.",
+      "metadata": {
+        "action": "override",
+        "previousStatus": "Qualified",
+        "newStatus": "Approved",
+        "assignedAE": "Sarah Chen (Principal AE)"
+      }
+    },
+    {
+      "id": "LOG-REC-1793360354159",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:39:14.159Z",
+      "step": "Checkpoint Recovery Engine",
+      "status": "Success",
+      "durationMs": 14,
+      "message": "Resumed workflow from checkpoint \"ACTION_DISPATCHED\". Check tool verified invariants; Action tool completed territory routing.",
+      "metadata": {
+        "recoveryAttempt": 1,
+        "maxAllowed": 3,
+        "checkTool": {
+          "toolName": "DeterministicCheckTool",
+          "timestamp": "2026-10-30T11:39:14.159Z",
+          "passed": true,
+          "totalChecks": 5,
+          "passedChecks": 5,
+          "checks": [
+            {
+              "ruleId": "INV-01-MATH-SCORE",
+              "description": "Lead score must match deterministic weighted fit factor formula within ±1 point",
+              "passed": true,
+              "details": "Lead score (83) correctly verifies against calculated weighted value (83)."
+            },
+            {
+              "ruleId": "INV-02-BUDGET-TIER",
+              "description": "Contract value must correctly map to standardized budget tier boundaries",
+              "passed": true,
+              "details": "Budget of $95,000 correctly assigned to Mid-Market ($30K-$100K)."
+            },
+            {
+              "ruleId": "INV-03-ESCALATION-GATE",
+              "description": "Contracts >= $100,000 ARR must trigger requiresManagerApproval flag",
+              "passed": true,
+              "details": "Escalation gate consistent: requiresManagerApproval=false for ARR $95,000."
+            },
+            {
+              "ruleId": "INV-04-UNASSIGNED-GUARDRAIL",
+              "description": "Pending and rejected/disqualified leads must NOT have active AE assigned",
+              "passed": true,
+              "details": "Assignment guardrail respected: status=\"Qualified\", AE=\"Marcus Vance (Senior AE)\"."
+            },
+            {
+              "ruleId": "INV-05-EMAIL-SYNTAX",
+              "description": "Prospect email must conform to valid RFC 5322 format",
+              "passed": true,
+              "details": "Email format verified: mscott@vortexcloud.net"
+            }
+          ]
+        },
+        "actionTool": {
+          "toolName": "RoutingActionTool",
+          "timestamp": "2026-10-30T11:39:14.159Z",
+          "executed": true,
+          "targetTerritory": "US Mid-Market",
+          "assignedAE": "Marcus Vance (Senior AE)",
+          "crmSyncStatus": "DISPATCHED_TO_AE",
+          "slaResponseWindowHours": 2,
+          "message": "Action Tool dispatched lead directly to Marcus Vance (Senior AE) (US Mid-Market) with CRM record synchronized and SLA counter initialized."
+        }
+      }
+    },
+    {
+      "id": "LOG-FAIL-1793360344431",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:39:04.431Z",
+      "step": "Workflow Interruption Simulated",
+      "status": "Error",
+      "durationMs": 0,
+      "message": "[SIMULATED FAILURE] Pipeline interrupted at checkpoint: NEURAL_SCORED. Reason: Simulated pod termination / network crash. Checkpoint saved.",
+      "metadata": {
+        "checkpoint": {
+          "leadId": "LP-1057",
+          "currentStage": "COMPLETED",
+          "completedStages": [
+            "INGESTED",
+            "FIRMOGRAPHIC_ENRICHED",
+            "NEURAL_SCORED",
+            "INVARIANT_CHECKED",
+            "ACTION_DISPATCHED",
+            "COMPLETED"
+          ],
+          "lastCheckpointAt": "2026-10-30T11:39:04.431Z",
+          "isInterrupted": false,
+          "recoveryAttempts": 1,
+          "maxRecoveryLimit": 3
+        }
+      }
+    },
+    {
+      "id": "LOG-1793360329448-0",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "Enquiry Received",
+      "status": "Info",
+      "durationMs": 8,
+      "message": "Ingested payload from Vortex Cloud Data Corp (Michael Scott (VP Cloud) <mscott@vortexcloud.net>)",
+      "metadata": {
+        "source": "Website Demo Request",
+        "budget": 95000,
+        "employeeCount": "501-2500"
+      }
+    },
+    {
+      "id": "LOG-1793360329448-1",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "Firmographic Verification",
+      "status": "Success",
+      "durationMs": 42,
+      "message": "Corporate domain verified for mscott@vortexcloud.net. Company size tier: 501-2500.",
+      "metadata": {
+        "isCorporateEmail": true,
+        "employeeCount": "501-2500",
+        "industry": "Enterprise SaaS"
+      }
+    },
+    {
+      "id": "LOG-1793360329448-2",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "Gemini AI Retry Monitor",
+      "status": "Warning",
+      "durationMs": 2003,
+      "message": "Attempt 1/3 for Gemini API neural scoring failed (Gemini API request timed out after 2000ms). Initiating retry with backoff...",
+      "metadata": {
+        "attempt": 1,
+        "maxRetries": 3,
+        "error": "Gemini API request timed out after 2000ms"
+      }
+    },
+    {
+      "id": "LOG-1793360329448-3",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "Gemini AI Retry Monitor",
+      "status": "Warning",
+      "durationMs": 4155,
+      "message": "Attempt 2/3 for Gemini API neural scoring failed (Gemini API request timed out after 2000ms). Initiating retry with backoff...",
+      "metadata": {
+        "attempt": 2,
+        "maxRetries": 3,
+        "error": "Gemini API request timed out after 2000ms"
+      }
+    },
+    {
+      "id": "LOG-1793360329448-4",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "Gemini AI Retry Monitor",
+      "status": "Warning",
+      "durationMs": 6456,
+      "message": "Attempt 3/3 for Gemini API neural scoring failed (Gemini API request timed out after 2000ms). Maximum 3 attempts exhausted.",
+      "metadata": {
+        "attempt": 3,
+        "maxRetries": 3,
+        "error": "Gemini API request timed out after 2000ms"
+      }
+    },
+    {
+      "id": "LOG-1793360329448-5",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "Gemini AI Intent Scoring",
+      "status": "Warning",
+      "durationMs": 6456,
+      "message": "Gemini API ceased after 3 attempts (Gemini API request timed out after 2000ms). Seamlessly engaged LeadPilot deterministic neural heuristic engine.",
+      "metadata": {
+        "attempts": 3,
+        "maxRetries": 3,
+        "fallbackEngaged": true
+      }
+    },
+    {
+      "id": "LOG-1793360329448-6",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "Neural Heuristics Intent Scoring",
+      "status": "Success",
+      "durationMs": 1,
+      "message": "Intent and fit scoring calculated via LeadPilot Multi-Factor Neural Heuristics.",
+      "metadata": {
+        "fitFactors": {
+          "budgetFit": 85,
+          "authorityFit": 100,
+          "needFit": 65,
+          "timelineFit": 95
+        }
+      }
+    },
+    {
+      "id": "LOG-1793360329448-7",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "Routing Rules Evaluation",
+      "status": "Success",
+      "durationMs": 34,
+      "message": "Routed to US Mid-Market via rule: \"Mid-Market Employee Threshold (101-2500)\". Lead score: 83 (Grade: A).",
+      "metadata": {
+        "rule": "Mid-Market Employee Threshold (101-2500)",
+        "team": "US Mid-Market",
+        "score": 83
+      }
+    },
+    {
+      "id": "LOG-1793360329448-8",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "AE Assignment & SLA Sync",
+      "status": "Success",
+      "durationMs": 22,
+      "message": "Assigned directly to Marcus Vance (Senior AE) with 2-hour response SLA. CRM record synchronized.",
+      "metadata": {
+        "ae": "Marcus Vance (Senior AE)",
+        "team": "US Mid-Market"
+      }
+    },
+    {
+      "id": "LOG-1793360329448-9",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "Deterministic Check Tool Validation",
+      "status": "Success",
+      "durationMs": 7,
+      "message": "Independent Deterministic Check Tool verified 5/5 mathematical, tier, and policy invariants.",
+      "metadata": {
+        "toolName": "DeterministicCheckTool",
+        "passed": true,
+        "totalChecks": 5,
+        "checks": [
+          {
+            "ruleId": "INV-01-MATH-SCORE",
+            "description": "Lead score must match deterministic weighted fit factor formula within ±1 point",
+            "passed": true,
+            "details": "Lead score (83) correctly verifies against calculated weighted value (83)."
+          },
+          {
+            "ruleId": "INV-02-BUDGET-TIER",
+            "description": "Contract value must correctly map to standardized budget tier boundaries",
+            "passed": true,
+            "details": "Budget of $95,000 correctly assigned to Mid-Market ($30K-$100K)."
+          },
+          {
+            "ruleId": "INV-03-ESCALATION-GATE",
+            "description": "Contracts >= $100,000 ARR must trigger requiresManagerApproval flag",
+            "passed": true,
+            "details": "Escalation gate consistent: requiresManagerApproval=false for ARR $95,000."
+          },
+          {
+            "ruleId": "INV-04-UNASSIGNED-GUARDRAIL",
+            "description": "Pending and rejected/disqualified leads must NOT have active AE assigned",
+            "passed": true,
+            "details": "Assignment guardrail respected: status=\"Qualified\", AE=\"Marcus Vance (Senior AE)\"."
+          },
+          {
+            "ruleId": "INV-05-EMAIL-SYNTAX",
+            "description": "Prospect email must conform to valid RFC 5322 format",
+            "passed": true,
+            "details": "Email format verified: mscott@vortexcloud.net"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LOG-1793360329448-10",
+      "leadId": "LP-1057",
+      "leadCompany": "Vortex Cloud Data Corp",
+      "timestamp": "2026-10-30T11:38:49.448Z",
+      "step": "Routing Action Tool Execution",
+      "status": "Success",
+      "durationMs": 12,
+      "message": "Action Tool dispatched lead directly to Marcus Vance (Senior AE) (US Mid-Market) with CRM record synchronized and SLA counter initialized.",
+      "metadata": {
+        "toolName": "RoutingActionTool",
+        "executed": true,
+        "targetTerritory": "US Mid-Market",
+        "assignedAE": "Marcus Vance (Senior AE)",
+        "crmSyncStatus": "DISPATCHED_TO_AE",
+        "slaResponseWindowHours": 2
+      }
+    },
+    {
+      "id": "LOG-DUP-1793359203991",
+      "leadId": "LP-1056",
+      "leadCompany": "Quantum BioSystems Inc",
+      "timestamp": "2026-10-30T11:20:03.991Z",
+      "step": "Duplicate Submission Intercepted",
+      "status": "Warning",
+      "durationMs": 4,
+      "message": "Duplicate enquiry received for Quantum BioSystems Inc (evelyn.wu@quantumbio.com). Ingestion halted to prevent duplicate record. Preserved existing record LP-1056.",
+      "metadata": {
+        "duplicate": true,
+        "existingId": "LP-1056",
+        "companyName": "Quantum BioSystems Inc",
+        "email": "evelyn.wu@quantumbio.com"
+      }
+    },
+    {
+      "id": "LOG-1793359195479",
+      "leadId": "LP-1048",
+      "leadCompany": "Apex Cloud Logistics",
+      "timestamp": "2026-10-30T11:19:55.479Z",
+      "step": "Manager Gatekeeper Check",
+      "status": "Success",
+      "durationMs": 18,
+      "message": "Manager decision recorded: APPROVE by Executive Sales Manager. Assigned AE: Marcus Vance (Senior AE). Notes: Re-approved by Executive Committee",
+      "metadata": {
+        "action": "approve",
+        "previousStatus": "Disqualified",
+        "newStatus": "Approved",
+        "assignedAE": "Marcus Vance (Senior AE)"
+      }
+    },
+    {
+      "id": "LOG-1793359187254",
+      "leadId": "LP-1048",
+      "leadCompany": "Apex Cloud Logistics",
+      "timestamp": "2026-10-30T11:19:47.254Z",
+      "step": "Manager Gatekeeper Check",
+      "status": "Warning",
+      "durationMs": 18,
+      "message": "Manager decision recorded: REJECT by Executive Sales Manager. Assigned AE: Unassigned (Disqualified). Notes: Budget allocation cancelled by prospect.",
+      "metadata": {
+        "action": "reject",
+        "previousStatus": "Pending Approval",
+        "newStatus": "Disqualified",
+        "assignedAE": "Unassigned (Disqualified)"
+      }
+    },
+    {
+      "id": "LOG-1793359167093-0",
+      "leadId": "LP-1056",
+      "leadCompany": "Quantum BioSystems Inc",
+      "timestamp": "2026-10-30T11:19:27.093Z",
+      "step": "Enquiry Received",
+      "status": "Info",
+      "durationMs": 8,
+      "message": "Ingested payload from Quantum BioSystems Inc (Dr. Evelyn Wu <evelyn.wu@quantumbio.com>)",
+      "metadata": {
+        "source": "Website Demo Request",
+        "budget": 85000,
+        "employeeCount": "501-2500"
+      }
+    },
+    {
+      "id": "LOG-1793359167093-1",
+      "leadId": "LP-1056",
+      "leadCompany": "Quantum BioSystems Inc",
+      "timestamp": "2026-10-30T11:19:27.093Z",
+      "step": "Firmographic Verification",
+      "status": "Success",
+      "durationMs": 42,
+      "message": "Corporate domain verified for evelyn.wu@quantumbio.com. Company size tier: 501-2500.",
+      "metadata": {
+        "isCorporateEmail": true,
+        "employeeCount": "501-2500",
+        "industry": "Healthcare"
+      }
+    },
+    {
+      "id": "LOG-1793359167094-2",
+      "leadId": "LP-1056",
+      "leadCompany": "Quantum BioSystems Inc",
+      "timestamp": "2026-10-30T11:19:27.094Z",
+      "step": "Gemini AI Retry Monitor",
+      "status": "Warning",
+      "durationMs": 2002,
+      "message": "Attempt 1/3 for Gemini API neural scoring failed (Gemini API request timed out after 2000ms). Initiating retry with backoff...",
+      "metadata": {
+        "attempt": 1,
+        "maxRetries": 3,
+        "error": "Gemini API request timed out after 2000ms"
+      }
+    },
+    {
+      "id": "LOG-1793359167094-3",
+      "leadId": "LP-1056",
+      "leadCompany": "Quantum BioSystems Inc",
+      "timestamp": "2026-10-30T11:19:27.094Z",
+      "step": "Gemini AI Retry Monitor",
+      "status": "Warning",
+      "durationMs": 4153,
+      "message": "Attempt 2/3 for Gemini API neural scoring failed (Gemini API request timed out after 2000ms). Initiating retry with backoff...",
+      "metadata": {
+        "attempt": 2,
+        "maxRetries": 3,
+        "error": "Gemini API request timed out after 2000ms"
+      }
+    },
+    {
+      "id": "LOG-1793359167094-4",
+      "leadId": "LP-1056",
+      "leadCompany": "Quantum BioSystems Inc",
+      "timestamp": "2026-10-30T11:19:27.094Z",
+      "step": "Gemini AI Retry Monitor",
+      "status": "Warning",
+      "durationMs": 6453,
+      "message": "Attempt 3/3 for Gemini API neural scoring failed (Gemini API request timed out after 2000ms). Maximum 3 attempts exhausted.",
+      "metadata": {
+        "attempt": 3,
+        "maxRetries": 3,
+        "error": "Gemini API request timed out after 2000ms"
+      }
+    },
+    {
+      "id": "LOG-1793359167094-5",
+      "leadId": "LP-1056",
+      "leadCompany": "Quantum BioSystems Inc",
+      "timestamp": "2026-10-30T11:19:27.094Z",
+      "step": "Gemini AI Intent Scoring",
+      "status": "Warning",
+      "durationMs": 6453,
+      "message": "Gemini API ceased after 3 attempts (Gemini API request timed out after 2000ms). Seamlessly engaged LeadPilot deterministic neural heuristic engine.",
+      "metadata": {
+        "attempts": 3,
+        "maxRetries": 3,
+        "fallbackEngaged": true
+      }
+    },
+    {
+      "id": "LOG-1793359167094-6",
+      "leadId": "LP-1056",
+      "leadCompany": "Quantum BioSystems Inc",
+      "timestamp": "2026-10-30T11:19:27.094Z",
+      "step": "Neural Heuristics Intent Scoring",
+      "status": "Success",
+      "durationMs": 20,
+      "message": "Intent and fit scoring calculated via LeadPilot Multi-Factor Neural Heuristics.",
+      "metadata": {
+        "fitFactors": {
+          "budgetFit": 85,
+          "authorityFit": 85,
+          "needFit": 90,
+          "timelineFit": 80
+        }
+      }
+    },
+    {
+      "id": "LOG-1793359167094-7",
+      "leadId": "LP-1056",
+      "leadCompany": "Quantum BioSystems Inc",
+      "timestamp": "2026-10-30T11:19:27.094Z",
+      "step": "Routing Rules Evaluation",
+      "status": "Success",
+      "durationMs": 34,
+      "message": "Routed to US Mid-Market via rule: \"Mid-Market Employee Threshold (101-2500)\". Lead score: 86 (Grade: A).",
+      "metadata": {
+        "rule": "Mid-Market Employee Threshold (101-2500)",
+        "team": "US Mid-Market",
+        "score": 86
+      }
+    },
+    {
+      "id": "LOG-1793359167094-8",
+      "leadId": "LP-1056",
+      "leadCompany": "Quantum BioSystems Inc",
+      "timestamp": "2026-10-30T11:19:27.094Z",
+      "step": "AE Assignment & SLA Sync",
+      "status": "Success",
+      "durationMs": 22,
+      "message": "Assigned directly to Marcus Vance (Senior AE) with 2-hour response SLA. CRM record synchronized.",
+      "metadata": {
+        "ae": "Marcus Vance (Senior AE)",
+        "team": "US Mid-Market"
+      }
+    },
+    {
+      "id": "LOG-3091",
+      "leadId": "LP-1048",
+      "leadCompany": "Apex Cloud Logistics",
+      "timestamp": "2026-10-30T09:12:43.969Z",
+      "step": "Enquiry Received",
+      "status": "Info",
+      "durationMs": 9,
+      "message": "Ingested payload from Apex Cloud Logistics (David Sterling <d.sterling@apexcloud.io>)",
+      "metadata": {
+        "source": "Website Demo Request",
+        "budget": 180000,
+        "employeeCount": "501-2500"
+      }
+    },
+    {
+      "id": "LOG-3092",
+      "leadId": "LP-1048",
+      "leadCompany": "Apex Cloud Logistics",
+      "timestamp": "2026-10-30T09:12:43.969Z",
+      "step": "Firmographic Verification",
+      "status": "Success",
+      "durationMs": 44,
+      "message": "Corporate domain verified for d.sterling@apexcloud.io. Company size tier: 501-2500.",
+      "metadata": {
+        "domain": "apexcloud.io",
+        "verified": true
+      }
+    },
+    {
+      "id": "LOG-3093",
+      "leadId": "LP-1048",
+      "leadCompany": "Apex Cloud Logistics",
+      "timestamp": "2026-10-30T09:12:43.969Z",
+      "step": "Gemini AI Intent Scoring",
+      "status": "Success",
+      "durationMs": 280,
+      "message": "Gemini 2.5 Flash neural evaluation completed successfully with deep contextual breakdown.",
+      "metadata": {
+        "model": "gemini-2.5-flash",
+        "intentUrgency": "Active buyer with near-term deployment mandate."
+      }
+    },
+    {
+      "id": "LOG-3094",
+      "leadId": "LP-1048",
+      "leadCompany": "Apex Cloud Logistics",
+      "timestamp": "2026-10-30T09:12:43.969Z",
+      "step": "Routing Rules Evaluation",
+      "status": "Success",
+      "durationMs": 31,
+      "message": "Matched rule: \"Enterprise Budget Rule (> $100K) -> Strategic Accounts\". Lead score: 94 (Grade: A+).",
+      "metadata": {
+        "rule": "Enterprise Budget Rule (> $100K)",
+        "targetTeam": "Strategic Enterprise"
+      }
+    },
+    {
+      "id": "LOG-3095",
+      "leadId": "LP-1048",
+      "leadCompany": "Apex Cloud Logistics",
+      "timestamp": "2026-10-30T09:12:43.969Z",
+      "step": "Manager Gatekeeper Check",
+      "status": "Warning",
+      "durationMs": 14,
+      "message": "Lead flagged for Manager Approval. Reason: High Contract Value ($180,000 ARR) exceeds $100K automated routing threshold.",
+      "metadata": {
+        "budget": 180000,
+        "trigger": "CONTRACT_VALUE_THRESHOLD"
+      }
+    },
+    {
+      "id": "LOG-3088",
+      "leadId": "LP-1047",
+      "leadCompany": "Vanguard FinTech Group",
+      "timestamp": "2026-10-30T06:30:43.969Z",
+      "step": "AE Assignment & SLA Sync",
+      "status": "Success",
+      "durationMs": 25,
+      "message": "Manager approved. Assigned directly to Sarah Chen (Principal AE) with 2-hour response SLA. CRM record synchronized.",
+      "metadata": {
+        "reviewer": "Rachel Adams",
+        "ae": "Sarah Chen"
+      }
+    },
+    {
+      "id": "LOG-3075",
+      "leadId": "LP-1046",
+      "leadCompany": "HealthPulse Solutions",
+      "timestamp": "2026-10-29T22:42:43.969Z",
+      "step": "AE Assignment & SLA Sync",
+      "status": "Success",
+      "durationMs": 19,
+      "message": "Assigned directly to Marcus Vance (Senior AE) with 2-hour response SLA. CRM record synchronized.",
+      "metadata": {
+        "ae": "Marcus Vance",
+        "team": "US Mid-Market"
+      }
+    }
+  ],
+  "testScenarios": [
+    {
+      "id": "TEST-01",
+      "name": "Fortune 500 Enterprise Deal Qualification",
+      "description": "Verifies that inquiries with >$100K ARR, 2500+ employees, and corporate domains trigger Manager Approval and route to Strategic Accounts.",
+      "testCategory": "High-Value Gatekeeper",
+      "expectedStatus": "Pending Approval",
+      "expectedTeam": "Strategic Enterprise",
+      "expectedMinScore": 85,
+      "samplePayload": {
+        "companyName": "Global Cyber Corp",
+        "contactName": "Amanda Lewis (VP InfoSec)",
+        "email": "alewis@globalcyber.net",
+        "phone": "+1 415-555-8900",
+        "industry": "Enterprise SaaS",
+        "employeeCount": "2500+",
+        "estimatedBudget": 150000,
+        "targetTimeline": "Immediate (< 30 days)",
+        "problemStatement": "Consolidating 14 enterprise SOC environments into a centralized intelligence hub. Need 99.999% SLA.",
+        "source": "Website Demo Request"
+      },
+      "lastRunAt": "2026-10-30T11:39:32.888Z",
+      "lastResult": {
+        "passed": true,
+        "actualScore": 95,
+        "actualStatus": "Pending Approval",
+        "actualTeam": "Strategic Enterprise",
+        "executionTimeMs": 0,
+        "assertionsPassed": 3,
+        "totalAssertions": 3,
+        "logs": [
+          "[2026-10-30T11:39:32.888Z] Initializing test case: Fortune 500 Enterprise Deal Qualification",
+          "Category: High-Value Gatekeeper",
+          "[PASS] Qualification Status: Expected \"Pending Approval\", Received \"Pending Approval\"",
+          "[PASS] Routing Destination: Expected \"Strategic Enterprise\", Received \"Strategic Enterprise\"",
+          "[PASS] Lead Score: 95 >= minimum threshold 85",
+          "Execution completed in 0ms. Assertions: 3/3 passed."
+        ]
+      }
+    },
+    {
+      "id": "TEST-02",
+      "name": "Mid-Market FinTech Priority Routing",
+      "description": "Tests automated territory assignment to US Mid-Market with >75 score without requiring manager hold.",
+      "testCategory": "Routing Rules",
+      "expectedStatus": "Qualified",
+      "expectedTeam": "US Mid-Market",
+      "expectedMinScore": 75,
+      "samplePayload": {
+        "companyName": "Beacon Ledger Tech",
+        "contactName": "Marcus Wright (CTO)",
+        "email": "mwright@beaconledger.io",
+        "phone": "+1 206-555-2244",
+        "industry": "Fintech",
+        "employeeCount": "101-500",
+        "estimatedBudget": 65000,
+        "targetTimeline": "1-3 months",
+        "problemStatement": "Automated AML triage engine replacing manual compliance workflows.",
+        "source": "Partner Referral"
+      },
+      "lastRunAt": "2026-10-30T11:39:32.889Z",
+      "lastResult": {
+        "passed": true,
+        "actualScore": 88,
+        "actualStatus": "Qualified",
+        "actualTeam": "US Mid-Market",
+        "executionTimeMs": 0,
+        "assertionsPassed": 3,
+        "totalAssertions": 3,
+        "logs": [
+          "[2026-10-30T11:39:32.889Z] Initializing test case: Mid-Market FinTech Priority Routing",
+          "Category: Routing Rules",
+          "[PASS] Qualification Status: Expected \"Qualified\", Received \"Qualified\"",
+          "[PASS] Routing Destination: Expected \"US Mid-Market\", Received \"US Mid-Market\"",
+          "[PASS] Lead Score: 88 >= minimum threshold 75",
+          "Execution completed in 0ms. Assertions: 3/3 passed."
+        ]
+      }
+    },
+    {
+      "id": "TEST-03",
+      "name": "Freemail / Low-Budget Spam Defense",
+      "description": "Ensures free-tier personal email providers with low budgets are safely routed to Self-Serve / Automated Nurture.",
+      "testCategory": "Spam / Gatekeeper Defense",
+      "expectedStatus": "Disqualified",
+      "expectedTeam": "Automated Nurture",
+      "expectedMinScore": 10,
+      "samplePayload": {
+        "companyName": "QuickSide Hobby",
+        "contactName": "Random Guy",
+        "email": "testuser12398@gmail.com",
+        "industry": "Other",
+        "employeeCount": "1-20",
+        "estimatedBudget": 500,
+        "targetTimeline": "Exploratory",
+        "problemStatement": "Just testing your form to see what happens.",
+        "source": "Inbound Form"
+      },
+      "lastRunAt": "2026-10-30T11:39:32.890Z",
+      "lastResult": {
+        "passed": true,
+        "actualScore": 42,
+        "actualStatus": "Disqualified",
+        "actualTeam": "Automated Nurture",
+        "executionTimeMs": 0,
+        "assertionsPassed": 3,
+        "totalAssertions": 3,
+        "logs": [
+          "[2026-10-30T11:39:32.890Z] Initializing test case: Freemail / Low-Budget Spam Defense",
+          "Category: Spam / Gatekeeper Defense",
+          "[PASS] Qualification Status: Expected \"Disqualified\", Received \"Disqualified\"",
+          "[PASS] Routing Destination: Expected \"Automated Nurture\", Received \"Automated Nurture\"",
+          "[PASS] Lead Score: 42 >= minimum threshold 10",
+          "Execution completed in 0ms. Assertions: 3/3 passed."
+        ]
+      }
+    },
+    {
+      "id": "TEST-04",
+      "name": "APAC Regional Expansion Routing",
+      "description": "Verifies geographic and regional distribution rule catches Asia-Pacific growth prospects.",
+      "testCategory": "Routing Rules",
+      "expectedStatus": "Qualified",
+      "expectedTeam": "APAC Growth",
+      "expectedMinScore": 60,
+      "samplePayload": {
+        "companyName": "Tokyo Logistics Stream",
+        "contactName": "Hana Tanaka",
+        "email": "hana@tokyostream.co.jp",
+        "industry": "Logistics",
+        "employeeCount": "21-100",
+        "estimatedBudget": 28000,
+        "targetTimeline": "1-3 months",
+        "problemStatement": "Cross-dock freight tracking integration for regional Japanese parcel network.",
+        "source": "Inbound Form"
+      },
+      "lastRunAt": "2026-10-30T11:39:32.890Z",
+      "lastResult": {
+        "passed": true,
+        "actualScore": 73,
+        "actualStatus": "Qualified",
+        "actualTeam": "APAC Growth",
+        "executionTimeMs": 0,
+        "assertionsPassed": 3,
+        "totalAssertions": 3,
+        "logs": [
+          "[2026-10-30T11:39:32.890Z] Initializing test case: APAC Regional Expansion Routing",
+          "Category: Routing Rules",
+          "[PASS] Qualification Status: Expected \"Qualified\", Received \"Qualified\"",
+          "[PASS] Routing Destination: Expected \"APAC Growth\", Received \"APAC Growth\"",
+          "[PASS] Lead Score: 73 >= minimum threshold 60",
+          "Execution completed in 0ms. Assertions: 3/3 passed."
+        ]
+      }
+    },
+    {
+      "id": "TEST-05",
+      "name": "Non-Standard Requirements Gatekeeper Flag",
+      "description": "Verifies that special compliance requirements trigger the human-in-the-loop review workflow.",
+      "testCategory": "High-Value Gatekeeper",
+      "expectedStatus": "Pending Approval",
+      "expectedTeam": "US Mid-Market",
+      "expectedMinScore": 65,
+      "samplePayload": {
+        "companyName": "MedShield Health Network",
+        "contactName": "Robert Vance (Director IT)",
+        "email": "rvance@medshieldhealth.org",
+        "industry": "Healthcare",
+        "employeeCount": "101-500",
+        "estimatedBudget": 75000,
+        "targetTimeline": "Immediate (< 30 days)",
+        "problemStatement": "Need clinical intake routing with custom dedicated on-prem hardware encryption gateway.",
+        "source": "Website Demo Request",
+        "customRequirements": "Requires custom on-premise HSM key management and multi-tenant dedicated isolation SLA."
+      },
+      "lastRunAt": "2026-10-30T11:39:32.891Z",
+      "lastResult": {
+        "passed": true,
+        "actualScore": 83,
+        "actualStatus": "Pending Approval",
+        "actualTeam": "US Mid-Market",
+        "executionTimeMs": 0,
+        "assertionsPassed": 3,
+        "totalAssertions": 3,
+        "logs": [
+          "[2026-10-30T11:39:32.891Z] Initializing test case: Non-Standard Requirements Gatekeeper Flag",
+          "Category: High-Value Gatekeeper",
+          "[PASS] Qualification Status: Expected \"Pending Approval\", Received \"Pending Approval\"",
+          "[PASS] Routing Destination: Expected \"US Mid-Market\", Received \"US Mid-Market\"",
+          "[PASS] Lead Score: 83 >= minimum threshold 65",
+          "Execution completed in 0ms. Assertions: 3/3 passed."
+        ]
+      }
+    }
+  ]
+}

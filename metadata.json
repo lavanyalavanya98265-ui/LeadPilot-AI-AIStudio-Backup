@@ -1,0 +1,6 @@
+{
+  "name": "LeadPilot AI",
+  "description": "Enterprise AI lead qualification, scoring, and automated routing dashboard with approval governance and workflow telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
